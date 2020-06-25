@@ -28,6 +28,7 @@ expected_calls = [
         "Spider-Boy:",
         {"id": 3, "secret_name": "Pedro Parqueador", "age": None, "name": "Spider-Boy"},
     ],
+    [
         "Spider-Boy Teams:",
         [{"id": 2, "name": "Preventers", "headquarters": "Sharp Tower"}],
     ],

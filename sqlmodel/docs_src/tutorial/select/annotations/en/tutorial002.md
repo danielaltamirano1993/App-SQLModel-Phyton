@@ -32,6 +32,7 @@
     It returns a special iterable object that we put in the variable `results`.
 
     This generates the output:
+
     ```
     INFO Engine BEGIN (implicit)
     INFO Engine SELECT hero.id, hero.name, hero.secret_name, hero.age 
